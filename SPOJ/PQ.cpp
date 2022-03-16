@@ -254,5 +254,6 @@ int solve (PriorityQueue *pqueue,Queue *queue,int m){
                 //menghapus data pada posisi teratas pqueue
 				pqueue_pop(pqueue);
 			}
-		}
+	}
+    
 }
