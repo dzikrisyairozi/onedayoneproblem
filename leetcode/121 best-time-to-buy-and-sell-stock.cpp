@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-Class Solution {
+class Solution {
 public:
     int maxProfit(vector<int>& prices) {
         int minValue = prices[0];
